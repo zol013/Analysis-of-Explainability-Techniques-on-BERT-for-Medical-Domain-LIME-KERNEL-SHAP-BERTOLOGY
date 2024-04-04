@@ -37,6 +37,3 @@ This work was submitted as the final project for the course CSE 256: Statistical
 ## Experiments
 We implemented multiple methods including SHAP, LIME, Integrated Gradients, Adversarial and Counterfactual examples, Vocabulary and Bertology. The implementation can be found in the corresponding ipynb notebook. 
 
-## Authors 
-
-[Prasannakumaran D](http://github.com/PrasannaKumaran), [Ashwin Muralidharan](https://github.com/ashwinmd), [Zongze Liu](https://github.com/zol013), [Pranav Khanna](https://github.com/kpranav1998)
